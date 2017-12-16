@@ -1,1 +1,3 @@
-# ASU-RT-Camp-1
+Point of the camp is to develop a webpage similar to which appears in that photo using HTML & bootstrap.
+
+![](https://i.imgur.com/DUPmOCi.png)
